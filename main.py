@@ -11,4 +11,4 @@ bestperformance = genre_performance.idxmax()
 
 most_rating_books.to_csv("cleaned_bestsellers.csv" , index=False)
 most_rating_books.to_csv("high_rated_books.csv" , index=False)
-genre_performance.to_csv("Genre_performance_avg.csv" , index=False)
+genre_performance.to_csv("Genre_performance_avg.csv" , index=True)
