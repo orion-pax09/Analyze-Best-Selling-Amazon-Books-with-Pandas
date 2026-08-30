@@ -146,7 +146,6 @@ This workflow represents a basic real-world data analysis process and provides p
 
 - Python
 - Pandas
-- Matplotlib
 - CSV
 
 ## Repository Structure
